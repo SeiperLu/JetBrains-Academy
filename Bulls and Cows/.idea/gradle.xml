@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/About abstract classes" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Calculating areas of rectangles and circles" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Correct statements" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/IntBinaryOperation" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Parts of an abstract class" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Adding annotations/Built-in annotations" />
+            <option value="$PROJECT_DIR$/Topics/Adding annotations/Creating a HelloWorld class and invoking its method" />
+            <option value="$PROJECT_DIR$/Topics/Adding annotations/Creating and invoking methods in Animal and Dog classes" />
+            <option value="$PROJECT_DIR$/Topics/Adding annotations/Deprecated annotation" />
+            <option value="$PROJECT_DIR$/Topics/Adding annotations/Deprecated annotation elements" />
+            <option value="$PROJECT_DIR$/Topics/Adding annotations/Lie detector" />
+            <option value="$PROJECT_DIR$/Topics/Adding annotations/Rules of annotations" />
+            <option value="$PROJECT_DIR$/Topics/Adding annotations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Find the correct statement" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Select the statement" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Spot the Errors  Reading and Summing Integers" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Validating and squaring user input" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Watch Out for Potential Errors" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/What's wrong" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Find the correct Statement" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Floating-point Formatting" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Format-Specifiers" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Formatting Long Sentences" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Integer Formatting" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/The battle for Mathematics" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Base class" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Base classes of RuntimeException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Checked exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Sorting the crash  Whose fault is it" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Subclasses of Exception" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Fix the non-compiled hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/When the keyword is used" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Why we use the super keyword" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Animal sounds  Cat meows, Dog woofs" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Employee and Programmer" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Publications" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Rules for overriding" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Rules for overriding (1)" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Shapes area" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Which methods will be overridden" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Create cube" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Swap the columns" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/About constructors" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Class instantiation" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Creating a Student class with multiple constructors" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Employee" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Suppose, you have a class" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Time" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Accessing fields" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Army" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Completing the Dog class program" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Creating and printing a 'Vehicle' object in Java" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Null or not" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/What is my age" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Notification" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Publication and its subclasses" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Runtime method resolution" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Superclass method call" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/The time of overloading" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Type of polymorphism" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Choose a correct invocation" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Find the seed" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Impossible to generate" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Lucky dip  The mystery number game" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Pseudorandom sequences" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Which values can be generated" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Creating a static message in a class" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Detail manufacturing" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Project constants and methods" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Searching bugs" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Sequence of steps to define and access a static member" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Time constants" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Too many cats" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Behold the power of StringBuilder" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Combining strings using a mutable sequence" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Create an email" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Immutability" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Reversing a string using a builder" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/StringBuilder methods" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

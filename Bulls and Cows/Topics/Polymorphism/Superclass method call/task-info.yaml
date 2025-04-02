@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Encapsulation
+  - text: Extending methods
+  - text: Data abstraction
+  - text: Run-time polymorphism
+  - text: Compile-time polymorphism
+  - text: Inheritance
+  - text: Magic
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2256#comment
+status: Solved
+record: -1
+local_check: false

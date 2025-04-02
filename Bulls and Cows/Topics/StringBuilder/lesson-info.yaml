@@ -1,0 +1,8 @@
+content:
+  - Theory
+  - Combining strings using a mutable sequence
+  - Immutability
+  - StringBuilder methods
+  - Create an email
+  - Behold the power of StringBuilder
+  - Reversing a string using a builder

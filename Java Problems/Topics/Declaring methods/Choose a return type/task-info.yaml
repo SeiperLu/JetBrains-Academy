@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: none
+  - text: void
+  - text: nothing
+  - text: int
+  - text: "null"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10986#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 16 Dec 2024 22:34:12 UTC"
+record: -1
+selected_options:
+  - 1
+local_check: false

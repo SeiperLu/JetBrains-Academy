@@ -1,0 +1,20 @@
+type: sorting
+options:
+  -        System.out.println("Oh wanna dance with somebody!");
+  - "\_ \_}"
+  - "}"
+  - "\_ \_public static void main(String[] args) {"
+  - "public class Main {"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/38630#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4

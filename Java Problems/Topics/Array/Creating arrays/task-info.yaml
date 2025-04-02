@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "char[] array = { 'a', 'b', 'c', 'd' };"
+  - text: "char[] array = new char[0];"
+  - text: "char[] array = new char[1];"
+  - text: "char[] array = new char[10000000000000];"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2128#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 08 Jan 2025 20:43:54 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 2
+local_check: false

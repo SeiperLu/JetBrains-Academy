@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: 7000
+  - text: '"3"'
+  - text: '"0000"'
+  - text: '''3'''
+  - text: '"7000"'
+  - text: '''a'''
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3228#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 14 Dec 2023 10:07:08 UTC"
+record: -1
+selected_options:
+  - 0
+  - 3
+  - 5
+local_check: false

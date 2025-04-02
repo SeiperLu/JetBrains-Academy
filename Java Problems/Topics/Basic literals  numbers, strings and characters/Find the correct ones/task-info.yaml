@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <b>'ab'</b> is a correct character literal
+  - text: <b>"123"</b> is a correct integer literal
+  - text: <b>"abc"</b> is a correct string literal
+  - text: <b>10</b> is a correct  integer literal
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3230#comment
+status: Solved
+record: -1
+local_check: false

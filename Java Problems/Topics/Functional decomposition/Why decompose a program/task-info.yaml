@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Decomposed program works faster.
+  - text: The code looks more readable.
+  - text: Separate parts of code are easier to test.
+  - text: Decomposed program uses less memory.
+  - text: The code is easier to reuse.
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10571#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 18 Dec 2024 21:29:32 UTC"
+record: -1
+selected_options:
+  - 1
+  - 2
+  - 4
+local_check: false

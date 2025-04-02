@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: It will print an error
+  - text: 35 23.34
+  - text: 35.000000 23.340000
+  - text: 35 23.340000
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7052#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 31 Jan 2025 15:00:26 UTC"
+record: -1
+selected_options:
+  - 2
+local_check: false

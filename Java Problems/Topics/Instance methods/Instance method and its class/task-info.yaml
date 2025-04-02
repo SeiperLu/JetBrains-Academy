@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Calling the same instance method for different objects of a class can produce
+      different result.
+  - text: A class can have multiple instance methods.
+  - text: A class can have only a single instance method.
+  - text: An instance method can access values of the fields.
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3279#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 12 Jan 2025 12:35:05 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 3
+local_check: false

@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: '"aaabb"'
+  - text: '" abcda"'
+  - text: '"abcda "'
+  - text: '" aaabbcccdaa"'
+  - text: '"aaabbcccdaa"'
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2064#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 27 Feb 2025 11:49:31 UTC"
+record: -1
+selected_options:
+  - 1
+custom_name: Determine the value
+local_check: false

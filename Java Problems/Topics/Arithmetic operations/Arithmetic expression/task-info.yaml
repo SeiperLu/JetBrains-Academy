@@ -1,0 +1,21 @@
+type: number
+files:
+  - name: answer.txt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 3
+        placeholder_text: type your solution here
+        initial_state:
+          length: 3
+          offset: 0
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3216#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 05 Dec 2024 22:41:55 UTC"
+record: -1

@@ -1,0 +1,11 @@
+type: unsupported
+custom_name: "Discount dilemma: The price puzzle"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/49078#comment
+status: Solved
+feedback:
+  time: "Thu, 05 Dec 2024 22:59:57 UTC"
+record: -1

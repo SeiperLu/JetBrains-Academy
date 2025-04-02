@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "New news = new News(\"A title\", \"A text\", new String[]{\"PROGRAMMING\"\
+    , \"JAVA\"});"
+  - text: News news = new News();
+  - text: "News news = new News(\"A title\", \"A text\");"
+  - text: New news = new News("A title");
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2987#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 12 Jan 2025 13:20:46 UTC"
+record: -1
+selected_options:
+  - 2
+local_check: false

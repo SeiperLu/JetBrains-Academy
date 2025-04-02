@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: All annotations include elements.
+  - text: A class can be marked with no more than one annotation.
+  - text: It's possible to mix built-in and external annotations in a <b>.java</b> file.
+  - text: All annotations can mark classes and methods.
+  - text: "Some annotations can mark classes, methods, fields, and variables."
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2573#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 23 Jan 2025 00:28:37 UTC"
+record: -1
+selected_options:
+  - 2
+  - 4
+local_check: false

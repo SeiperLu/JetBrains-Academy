@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: NullReferenceException
+  - text: StringFormatException
+  - text: NumberFormatException
+  - text: NullPointerException
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2052#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 20 Feb 2025 14:43:24 UTC"
+record: -1
+selected_options:
+  - 3
+local_check: false

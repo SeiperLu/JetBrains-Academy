@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Comments-Circling_in_on_clarity_with_PI_precision:main" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Comments/Circling in on clarity with PI precision" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java Problems" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Comments/Circling in on clarity with PI precision/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Comments/Circling in on clarity with PI precision/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Comments/Circling in on clarity with PI precision/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

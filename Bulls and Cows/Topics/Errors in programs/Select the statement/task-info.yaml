@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Debugging can help to find compile-time errors.
+  - text: The forgotten semicolon in source code is a run-time error.
+  - text: Compile-time errors may occur when a program is already started.
+  - text: "If your program compiles successfully, there are no guarantees that it does\
+    \ not have run-time errors."
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3476#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 29 Jan 2025 15:40:33 UTC"
+record: -1
+selected_options:
+  - 3
+local_check: false

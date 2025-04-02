@@ -1,0 +1,22 @@
+type: string
+custom_name: Boolean expression
+files:
+  - name: answer.txt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 4
+        placeholder_text: type your solution here
+        initial_state:
+          length: 4
+          offset: 0
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2662#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 08 Dec 2024 22:35:06 UTC"
+record: -1

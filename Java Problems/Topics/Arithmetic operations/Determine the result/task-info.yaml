@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 29
+  - text: 15
+  - text: 10
+  - text: 17
+  - text: 19
+  - text: 27
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3218#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 05 Dec 2024 22:56:18 UTC"
+record: -1
+selected_options:
+  - 4
+local_check: false

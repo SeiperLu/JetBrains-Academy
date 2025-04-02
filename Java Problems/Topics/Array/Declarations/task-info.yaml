@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "int[] numbers = new int[20];"
+  - text: "int numbers = new int[10];"
+  - text: "int numbers = new numbers[30];"
+  - text: "int numbers[] = new int[10];"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/1957#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 08 Jan 2025 20:44:57 UTC"
+record: -1
+selected_options:
+  - 0
+  - 3
+local_check: false
