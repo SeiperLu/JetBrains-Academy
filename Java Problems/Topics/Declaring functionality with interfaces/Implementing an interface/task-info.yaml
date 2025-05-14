@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "class A inherits B { /* body */ }"
+  - text: "class A : B { /* body */ }"
+  - text: "class A implements B { /* body */ }"
+  - text: "class A realizes B { /* body */ }"
+  - text: "class A extends B { /* body */ }"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/1949#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 08 May 2025 18:07:55 UTC"
+record: -1
+selected_options:
+  - 2
+local_check: false

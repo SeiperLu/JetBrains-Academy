@@ -8,7 +8,7 @@ options:
   - '"464531######0207"'
   - '''H'''
   - '''text'''
-  - 100000000
+  - 100_000_000
 files:
   - name: src/Task.java
     visible: true

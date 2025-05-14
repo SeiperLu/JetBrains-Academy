@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: The &#x27;shape&#x27; reference is a &#x27;Object&#x27; because every class
+      in Java has Object as a superclass.
+  - text: The &#x27;shape&#x27; reference cannot access methods of the &#x27;Shape&#x27;
+      or &#x27;Object&#x27; classes if those methods are not overridden in the &#x27;Square&#x27;
+      class.
+  - text: "The &#x27;shape&#x27; reference can call methods that are defined in the\
+    \ Object class, even without any definition in the &#x27;Shape&#x27; class or\
+    \ the &#x27;Square&#x27; class."
+  - text: "The &#x27;shape&#x27; reference, although referring to a &#x27;Square&#x27;,\
+    \ can be passed to a method that requires an Object as a parameter."
+  - text: The &#x27;shape&#x27; reference is an instance of the Object class.
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/31135#comment
+status: Solved
+record: -1
+custom_name: "Java Inheritance: Square, Shapes, Objects!"
+local_check: false

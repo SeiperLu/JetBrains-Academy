@@ -88,7 +88,7 @@ public class Main {
     }
 }</code></pre>
 <h5 id="default-package">Default package</h5>
-<p>If we do not write a package statement before defining our class, it will be placed inside the <strong><a class="theory-lookup not-relevant" href="/learn/step/3621" target="_blank" title="In Java, a default package is the package that is imported by default and does not have a name. | It is the root of the inheritance in Java programs, and every class extends this one implicitly. The default package is used when a class or class member is not declared in any named package. However, it is not recommended to use the default package for classes in a real-world application as it can lead to conflicts in class names and makes it difficult to organize and maintain the codebase.">default package</a></strong>. This package has a big disadvantage — classes located here can't be imported to classes located inside named packages.</p>
+<p>If we do not write a package statement before defining our class, it will be placed inside the <strong>default package</strong>. This package has a big disadvantage — classes located here can't be imported to classes located inside named packages.</p>
 <p>The following class cannot be used in a class located inside packages since there is no package declaration.</p>
 <pre><code class="language-java">// no package declaration
 

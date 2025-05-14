@@ -37,3 +37,7 @@ content:
   - NullPointerException
   - Processing strings
   - Debugging techniques
+  - Object class
+  - Declaring functionality with interfaces
+  - Anonymous class
+  - Default methods

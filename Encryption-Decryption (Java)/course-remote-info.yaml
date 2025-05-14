@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://hyperskill.org/api/projects/46/additional-files/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Tue, 25 Mar 2025 00:46:40 UTC"
+update_date: "Sat, 19 Apr 2025 16:15:50 UTC"
 stages:
   - id: 245
     step: 5387
@@ -35,7 +35,7 @@ topics:
       theory_id: 8977
     - title: Parameters and options
       theory_id: 9746
-    - title: Running programs on your computer
+    - title: Compile and run Java from CLI
       theory_id: 3746
     - title: Introduction to Java
       theory_id: 38627
@@ -100,7 +100,7 @@ topics:
       theory_id: 3507
     - title: Declaring methods
       theory_id: 10982
-    - title: Data types and their sizes
+    - title: Primitive data types and their sizes
       theory_id: 3532
     - title: Type casting
       theory_id: 3510
