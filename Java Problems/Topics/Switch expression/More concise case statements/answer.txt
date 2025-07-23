@@ -1,0 +1,1 @@
+case MONDAY, FRIDAY, SUNDAY -> 6;

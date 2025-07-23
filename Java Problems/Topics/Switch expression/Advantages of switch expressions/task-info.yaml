@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: The JVM executes the code more quickly
+  - text: There are no advantages to using switch expressions
+  - text: The code is less error-prone
+  - text: The code is more concise and easier to read
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16037#comment
+status: Solved
+record: -1
+local_check: false

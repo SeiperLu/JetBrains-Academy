@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "LocalDate.of(2018, 2, 1);"
+  - text: "LocalDate.of(2018, 1, 1).withDayOfMonth(1);"
+  - text: "LocalDate.of(2018, 3, 2).minusMonths(2);"
+  - text: "LocalDate.of(2018, 1, 1).plusDays(1);"
+  - text: "LocalDate.ofYearDay(2018, 2);"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2857#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 02 Jul 2025 18:39:23 UTC"
+record: -1
+selected_options:
+  - 2
+  - 3
+  - 4
+local_check: false

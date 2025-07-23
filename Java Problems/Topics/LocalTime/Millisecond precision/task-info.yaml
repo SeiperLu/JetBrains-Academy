@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: LocalTime.ofSecondOfDay(millis * 1000)
+  - text: LocalTime.ofSecondOfDay(millis / 1000)
+  - text: LocalTime.ofNanoOfDay(millis * 1000000)
+  - text: LocalTime.ofNanoOfDay(millis / 1000000)
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2874#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 20 Jul 2025 22:03:12 UTC"
+record: -1
+selected_options:
+  - 2
+local_check: false

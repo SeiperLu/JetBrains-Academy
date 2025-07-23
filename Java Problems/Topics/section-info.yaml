@@ -41,3 +41,8 @@ content:
   - Declaring functionality with interfaces
   - Anonymous class
   - Default methods
+  - Throwing exceptions
+  - LocalDate
+  - Switch expression
+  - LocalTime
+  - LocalDateTime
