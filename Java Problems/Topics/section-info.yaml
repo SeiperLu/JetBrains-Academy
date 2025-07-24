@@ -46,3 +46,4 @@ content:
   - Switch expression
   - LocalTime
   - LocalDateTime
+  - Template method
