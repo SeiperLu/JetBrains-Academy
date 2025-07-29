@@ -354,6 +354,12 @@
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/The number of loop body executions" />
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/The sequence" />
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Wrapping classes. Boxing/Converting an integer object to a string" />
+            <option value="$PROJECT_DIR$/Topics/Wrapping classes. Boxing/Identify a possible exception" />
+            <option value="$PROJECT_DIR$/Topics/Wrapping classes. Boxing/Only true or false" />
+            <option value="$PROJECT_DIR$/Topics/Wrapping classes. Boxing/Result of the code" />
+            <option value="$PROJECT_DIR$/Topics/Wrapping classes. Boxing/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Wrapping classes. Boxing/Wrapper classes for char and int" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Char; Integer
+  - text: Doesn't exist for Character; Integer for int.
+  - text: Character; Integer
+  - text: Char; Int
+  - text: Character; Int
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/1964#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 29 Jul 2025 11:56:12 UTC"
+record: -1
+selected_options:
+  - 2
+local_check: false

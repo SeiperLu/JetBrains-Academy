@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: IllegalArgumentException
+  - text: <b>longValue</b> will be equal to null
+  - text: <b>longValue</b> will be equal to 0
+  - text: NullPointerException
+  - text: NumberFormatException
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/1965#comment
+status: Solved
+record: -1
+local_check: false

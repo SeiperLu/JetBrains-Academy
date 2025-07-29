@@ -47,3 +47,4 @@ content:
   - LocalTime
   - LocalDateTime
   - Template method
+  - Wrapping classes. Boxing
