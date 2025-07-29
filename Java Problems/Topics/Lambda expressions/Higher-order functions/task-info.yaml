@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "Function&lt;T, R&gt; method(int n)"
+  - text: int method(int n)
+  - text: "void method(Function&lt;T, R&gt; f)"
+  - text: "Function&lt;T, R&gt; method(Function&lt;T, R&gt; f,  int n)"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2361#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 29 Jul 2025 14:45:02 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+  - 3
+local_check: false

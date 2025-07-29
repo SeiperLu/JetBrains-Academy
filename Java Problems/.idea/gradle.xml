@@ -231,6 +231,12 @@
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The index of the first max in an array" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Expression closure" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Higher-order functions" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Parts of code" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Production of all numbers in the range" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
             <option value="$PROJECT_DIR$/Topics/LocalDate/10 days before" />
             <option value="$PROJECT_DIR$/Topics/LocalDate/2 weeks after" />
             <option value="$PROJECT_DIR$/Topics/LocalDate/Convert numbers to days" />
