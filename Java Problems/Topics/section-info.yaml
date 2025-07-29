@@ -48,3 +48,4 @@ content:
   - LocalDateTime
   - Template method
   - Wrapping classes. Boxing
+  - Introduction to generic programming
