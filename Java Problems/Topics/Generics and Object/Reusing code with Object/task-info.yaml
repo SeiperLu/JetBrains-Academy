@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: String str = (String) instance.get();
+  - text: String str = instance.get();
+  - text: Integer num = (Integer) instance.get();
+  - text: Object obj = instance.get();
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7078#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 29 Jul 2025 13:46:48 UTC"
+record: -1
+selected_options:
+  - 2
+local_check: false

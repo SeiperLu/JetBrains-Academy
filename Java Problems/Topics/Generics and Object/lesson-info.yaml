@@ -1,0 +1,7 @@
+content:
+  - Theory
+  - Why generics
+  - Initialize an object of a generic class
+  - Box vs GenericBox  A Java Showdown
+  - Instance without type argument
+  - Reusing code with Object

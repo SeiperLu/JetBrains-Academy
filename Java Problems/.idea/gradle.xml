@@ -159,6 +159,12 @@
             <option value="$PROJECT_DIR$/Topics/Functional decomposition/The main tools of functional decomposition" />
             <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
             <option value="$PROJECT_DIR$/Topics/Functional decomposition/Why decompose a program" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Box vs GenericBox  A Java Showdown" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Initialize an object of a generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Instance without type argument" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Reusing code with Object" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Why generics" />
             <option value="$PROJECT_DIR$/Topics/Getters and setters/Account" />
             <option value="$PROJECT_DIR$/Topics/Getters and setters/BankAccount Balance  Getters   Setters" />
             <option value="$PROJECT_DIR$/Topics/Getters and setters/Choose a pair of getter and setter" />
