@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: a constructor
+  - text: a class
+  - text: a static method
+  - text: an instance method of a particular object
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2374#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 11 Aug 2025 20:18:28 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+  - 3
+local_check: false

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Method_references-Two_Lists,_One_Function__Who_Will_Merge" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Method references/Two Lists, One Function  Who Will Merge" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java Problems" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Method references/Two Lists, One Function  Who Will Merge">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Method references/Two Lists, One Function  Who Will Merge/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Method references/Two Lists, One Function  Who Will Merge/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Method references/Two Lists, One Function  Who Will Merge/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: <pre><code class="java">UtilityClass::mergeLists</code></pre>
+  - text: <pre><code class="java">::UtilityClass.mergeLists</code></pre>
+  - text: <pre><code class="java">UtilityClass.mergeLists::apply</code></pre>
+  - text: "<pre><code class=\"java\">(list1, list2) -&gt; UtilityClass.mergeLists(list1,\
+    \ list2)</code></pre>"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47959#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 11 Aug 2025 20:27:15 UTC"
+record: -1
+selected_options:
+  - 0
+custom_name: "Two Lists, One Function: Who Will Merge?"
+local_check: false

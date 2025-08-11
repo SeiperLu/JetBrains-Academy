@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: this::nonStaticMethodName
+  - text: ClassName::staticMethodName
+  - text: MyClass.staticMethodName
+  - text: this::nonStaticMethodName()
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2376#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 11 Aug 2025 20:17:28 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+local_check: false
