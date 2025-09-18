@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: new Polygon();
+  - text: ShapeFactory factory = new ShapeFactory(); factory.getShape("polygon");
+  - text: ShapeFactory.getShape("POLYGON");
+  - text: ShapeFactory factory = new ShapeFactory(); factory.getShape("POLY");
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3326#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 18 Sep 2025 16:22:47 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+local_check: false
