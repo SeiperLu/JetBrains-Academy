@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <b>java Main</b> starts the program with one command-line argument
+  - text: <b>java Main</b> starts the program without command-line arguments
+  - text: <b>java Main Main Main Main</b> starts the program with three command-line
+      arguments
+  - text: <b>java Main Main</b> starts the program with two command-line arguments
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3337#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 25 Nov 2025 00:41:16 UTC"
+record: -1
+selected_options:
+  - 1
+  - 2
+local_check: false
