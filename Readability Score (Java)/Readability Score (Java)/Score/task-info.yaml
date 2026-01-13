@@ -1,0 +1,15 @@
+type: edu
+custom_name: Score!
+files:
+  - name: src/readability/Main.java
+    visible: true
+    learner_created: false
+  - name: test/ReadabilityTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/39/stages/207/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 12 Jan 2026 15:13:36 UTC"
+record: 3
