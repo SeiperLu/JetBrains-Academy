@@ -1,0 +1,9 @@
+content:
+  - Comparable
+  - Ratings
+  - Rules
+  - Implement Comparable
+  - Implement compareTo method
+  - Natural ordering
+  - Leaderboard
+  - Rewrite compareTo method
